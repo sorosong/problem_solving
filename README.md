@@ -1,5 +1,5 @@
 # 📝 Problem Solving
 
-## 📌 data structure
+### 📌 data structure
 
-## 📌 algorithm
+### 📌 algorithm
